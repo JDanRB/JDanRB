@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">I'm Daniel, Freelance full stack programming student.</h3>
+<h4 align="left">I'm Daniel, Freelance full stack programming student.</h4>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h3 align="left">📖 I'm currently Java and English.<br>❤️ My goals are: Speak English, learning CSharp and work remotely.<br>🪄 I like video games and math.<br>🎲 I play video games and cheese.</h3>
+<h4 align="left">📖 I'm currently Java and English.<br>❤️ My goals are: Speak English, learning CSharp and work remotely.<br>🪄 I like video games and math.<br>🎲 I play video games and cheese.</h4>
 
 ###
 
