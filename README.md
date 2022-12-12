@@ -10,11 +10,11 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif"  />
+<img align="right" height="180" src="https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif"  />
 
 ###
 
-<h4 align="left">📖 I'm currently Java and English.<br>❤️ My goals are: Speak English, learning CSharp and work remotely.<br>🪄 I like video games and math.<br>🎲 I play video games and cheese.</h4>
+<h3 align="left">📖 I'm currently Java and English.<br>❤️ My goals are: Speak English, learning CSharp and work remotely.<br>🪄 I like video games and math.<br>🎲 I play video games and cheese.</h3>
 
 ###
 
@@ -27,11 +27,11 @@
 <br clear="both">
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" width="70" alt="java logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" width="70" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" width="70" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="50" width="70" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="50" width="70" alt="csharp logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="60" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="60" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" width="60" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" width="60" alt="csharp logo"  />
 </div>
 
 ###
