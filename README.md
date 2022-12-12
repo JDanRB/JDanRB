@@ -6,6 +6,9 @@
 
 ###
 
+<br clear="both">
+<br clear="both">
+
 <h2 align="left">About me!</h2>
 
 ###
@@ -23,8 +26,6 @@
 <h3 align="left">I code in</h3>
 
 ###
-
-<br clear="both">
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" width="60" alt="java logo"  />
