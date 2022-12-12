@@ -12,11 +12,11 @@
 
 ###
 
-<img align="right" height="180" src="https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif"  />
+<img align="right" height="125" src="https://media.giphy.com/media/DBW3BniaWrFo4/giphy.gif"  />
 
 ###
 
-<h4 align="left">📖 I'm currently Java and English.<br>❤️ My goals are: Speak English, learning CSharp and work remotely.<br>🪄 I like video games and math.<br>🎲 I play video games and cheese.</h4>
+<h5 align="left">📖 I'm currently Java and English.<br>❤️ My goals are: Speak English, learning CSharp and work remotely.<br>🪄 I like video games and math.<br>🎲 I play video games and cheese.</h5>
 
 ###
 
