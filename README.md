@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">I'm Daniel, Freelance full stack programming student.</h4>
+<h4 align="left">Hello Person, I am a freelance student of full stack programming.</h4>
 
 ###
 
