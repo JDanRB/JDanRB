@@ -16,7 +16,7 @@
 
 ###
 
-<h5 align="left">📖 I'm currently Java and English.<br>❤️ My goals are: Speak English, learning CSharp and work remotely.<br>🪄 I like video games and math.<br>🎲 I play video games and cheese.</h5>
+<h5 align="left">📖 I'm currently Java and English.<br>❤️ My goals are: Speak English, learning CSharp and work remotely.<br>🪄 I like video games and math.<br>🎲 I play video games and chees.</h5>
 
 ###
 
